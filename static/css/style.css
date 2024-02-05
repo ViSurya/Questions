@@ -1,0 +1,12 @@
+
+
+
+li {
+   margin: 10px !important;
+}
+
+
+* {
+   word-break: break-all !important;
+   word-wrap: break-word;
+}

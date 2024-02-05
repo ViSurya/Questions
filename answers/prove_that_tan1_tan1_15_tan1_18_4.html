@@ -1,0 +1,69 @@
+
+      <!DOCTYPE html>
+      <html lang="en">
+      
+      <head>
+          <meta charset="UTF-8">
+          <meta name="viewport" content="width=device-width, initial-scale=1.0">
+          <title>Prove that : tan-1 ½ + tan-1 1/5 + tan-1 1/8 = Π/4</title>
+          <script type="text/javascript" src="/static/js/main.js"></script>
+          <link rel="stylesheet" href="/static/css/flowbite.min.css">
+          <link rel="stylesheet" href="/static/css/style.css">
+      </head>
+      
+      <body class="font-sans bg-gray-100 dark:bg-gray-800 text-gray-800 dark:text-gray-200">
+          <header id="header">
+              <!-- Your header content here -->
+          </header>
+          <div class="container mx-auto my-8">
+              <article class="max-w-2xl mx-auto bg-white dark:bg-gray-700 p-8 rounded-lg shadow-md">
+                  <h1 id="question" class="text-xl font-bold mb-4 text-gray-800 dark:text-gray-200">Prove that : tan-1 ½ + tan-1 1/5 + tan-1 1/8 = Π/4</h1>
+                  <div id="answer" class="prose">
+                      <div id="answer">
+  <p class="mb-3 text-gray-500 dark:text-gray-400">
+    Let $$A = \tan^{-1} \frac{1}{2} + \tan^{-1} \frac{1}{5} + \tan^{-1} \frac{1}{8}$$
+    We know that $$\tan^{-1} x + \tan^{-1} y = \tan^{-1} \frac{x + y}{1 - xy}$$
+    Using this formula, we can simplify A as follows:
+  </p>
+  <table class="w-full text-sm text-left rtl:text-right text-gray-500 dark:text-gray-400 overflow-x-auto">
+    <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
+      <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
+        $$A = \tan^{-1} \frac{1}{2} + \tan^{-1} \frac{1}{5} + \tan^{-1} \frac{1}{8}$$
+      </th>
+      <td class="px-6 py-4">
+        $$= \tan^{-1} \left(\frac{\frac{1}{2} + \frac{1}{5} + \frac{1}{8}}{1 - \frac{1}{2} \cdot \frac{1}{5} \cdot \frac{1}{8}}\right)$$
+      </td>
+    </tr>
+    <tr class="bg-white border-b dark:bg-gray-800 dark:border-gray-700">
+      <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
+        $$= \tan^{-1} \left(\frac{\frac{20 + 10 + 5}{80}}\right)$$
+      </th>
+      <td class="px-6 py-4">
+        $$= \tan^{-1} \left(\frac{35}{80}\right)$$
+      </td>
+    </tr>
+    <tr class="bg-white dark:bg-gray-800">
+      <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white">
+        $$= \tan^{-1} \left(\frac{7}{16}\right)$$
+      </th>
+      <td class="px-6 py-4">
+        $$= \frac{\pi}{4}$$
+      </td>
+    </tr>
+  </table>
+  <p class="mt-2 text-gray-500 dark:text-gray-400">
+    Hence, it is proved that $$\tan^{-1} \frac{1}{2} + \tan^{-1} \frac{1}{5} + \tan^{-1} \frac{1}{8} = \frac{\pi}{4}$$.
+  </p>
+</div>
+                  </div>
+              </article>
+          </div>
+          <footer id="footer">
+              <!-- Your footer content here -->
+          </footer>
+          <script type="text/javascript" src="/static/js/flowbite.min.js"></script>
+          <script type="text/javascript" src="/static/js/MathJax.js"></script>
+      </body>
+      
+      </html>
+    

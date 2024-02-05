@@ -1,0 +1,106 @@
+Select and write the correct option from the options given in each question :(a) Unit of electric dipole moment is :
+Fill in the blanks : (a) S.I. unit of electric current density is ………
+Select the appropriate options from column "B" for each statement of column "A" and match the correct pairs : (a) Value of Electric field inside the conductor
+Give answers in one sentence / word for each question : (a) The force acting on charge particle moving inside magnetic field is known as ?
+What is the source of Gamma rays and write its use.
+What do you mean by displacement Current Write its expression.
+What do you mean by stopping potential ?
+Write any two applications of photoelectric cell.
+Write the names of five spectral series present in line spectrum of Hydrogen atom.
+Who discovered the nuclear model of atom ? Write the name of experiment performed by him.
+Resistance of a resistance thermometer at 0°C is 6 Ω. At 100°C is 7 Ω and at unknown temperature is 8 Ω. Find out unknown temperature.
+A network of 4 ohm, 4 ohm and 3 ohm resistances are connected to a 10 volt battery as shown in figure. Compute the equivalent resistance and current obtained from battery.
+Write the comparison between resistance and specific resistance of a conductor.
+Draw the labelled diagram of a meter bridge. On what principle it works?
+Write the conditions for obtaining total internal reflection. Write its any two applications.
+Derive the expression for combined focal length of two thin lenses kept in contact.
+State Bio-Savart's law and define unit electric current on the basis of it.
+Name the elements of Earth's magnetic field. Establish the relation between them.
+What do you mean by magnetic flux ? Write its unit. State Faraday's law of electromagnetic induction.
+What is self induction ? Write the unit of self inductance. Derive an expression for energy stored in current carrying coil.
+What do you understand by Interference of light ? Write the factors affecting the fringe width of light.
+What is meant by Polarisation of light ? State Brewster's law.
+A 5 cm long object is placed in front of a concave mirror of radius of curvature 40 cm. The distance of object from mirror is 40 cm. Find the distance and size of the image.
+The radius of curvature of a plano-convex lens is 20 cm. Refractive index of glass is 1.5. Find the focal length of the lens.
+What is radioactivity ? State the law of radioactive decay.
+What do you understand by nuclear fission ? Explain the process with the help of nuclear reaction.
+What do you mean by Electric dipole ? Derive an expression for Intensity of electric field at a point in end on position of electric dipole.
+Derive the expression for capacitance of a parallel plate capacitor. If a dielectric medium is placed in between the plates. How is its capacitance affected ?
+Describe a transformer under the following headings : (1) Kinds of transformer
+What is Dynamo ? Draw a labelled diagram and describe the working of an AC dynamo.
+What is rectifier ? Name different kinds of rectifier. Describe the pn junction diode as an half wave rectifier.
+What is NAND gate ? Draw 'its' symbol. Write truth table and draw its output single in wave form.
+Select and write the correct option from the options given in each question : The S.I. unit of electrical capacitance is -
+Fill in the blanks : (i) Meter bridge works on the principle of _____.
+Give answers in one sentence / word for each question : (a) The mass of a moving particle is m and velocity is v then write the
+Select the appropriate options from column "B" for each statement of column "A" and match the correct pairs : (a) Biot-Savart's law
+What is meant by electric current ? Write its unit.
+What do you mean by drift velocity ?
+Write Ohm's Law.
+What is an electric cell ?
+How is a moving coil galvanometer converted into an ammeter ?
+In a moving coil galvanometer the magnetic field is made radial. Why and how ?
+The force acting on a charge particle moving inside magnetic field is known as ? Write its expression.
+The speed of a charged particle moving in a magnetic field does not change. Why ?
+What is a Shunt ?
+What is meant by the sensitivity of the galvanometer ?
+Write the S.I. unit and dimensional formula of magnetic flux.
+Define the coefficient of Self induction.
+Write the Lenz's Law
+Write differences between Self Induction and Mutual induction (any two)
+Red light is generally used in the dark room of photography. Why?
+Write two uses of Gamma rays.
+What do you understand by diffraction of light ?
+What is wave front ?
+What is meant by threshold frequency in the photoelectric effect ?
+Write any two characteristics of matter waves.
+What is meant by the capacitance of a conductor ? Which factors affect the capacitance of a conductor and how ?
+What is the force between two small charged spheres having charges of 2×10–7C and 3×10–7C placed 30 cm apart in air ?
+Establish the relationship between drift velocity and current density.
+How should the resistances 2Ω, 3Ω and 6Ω be connected so that the equivalent resistance is 4Ω ? Also draw a diagram of the
+Explain the principle of Wheatstone bridge.
+State and explain Kirchoff's laws.
+Write the essential conditions for the interference of Light. (any 3)
+What is Huygen's wave theory ?
+Describe Rutherford's atomic model. Give reason why did it fail ?
+State the postulates of Bohr's atomic model.
+What is electric potential ? Deduce an expression for the potential at a point due to a point charge.
+Obtain an expression for the equivalent capacitance of the capacitors connected in series combination.
+Determine the following in an alternating L-C-R circuit- (i) Resultant voltage
+What is transformer ? Write its principle and its kinds and prove that
+Define N and P type semiconductors. Explain the working of P-N juntion diode with circuit in forward bias and reverse bias.
+What is meant by logic gates ? What are OR and AND gates ? Draw their symbols and electrical equivalent circuits.
+Select and write the correct option from the options given in each question : Which is used as a voltage regulator? (i)
+Fill in the blanks : (i) The maximum frequency wave in electromagnetic waves is _____. (ii) The behavior of Solenoid like
+Match the column "A" with column "B" : (i) Magnifying power of Compound Microscope (a) (1-D/f)
+Write the answers in one sentence each : (i) How does focal length of lens depends the power of lens ? (ii) Which gate is known
+Write any two limitations of Ohm's law.
+Write Kirchoff's Voltage law.
+What is Lorentz force ?
+Define one Ampere.
+The polarising angle of a transparent medium is 30º. Calculate the angle of refraction.
+The diameter of objective lens of a Telescope is 1 meter. Calculate its resolving power for the light of wavelength 4538 Å.
+Write Faraday's second law of electromagnetic induction.
+Differentiate between Self Induction and Mutual Induction. (any two)
+Show that the electric flux passing through a surface parallel to the electric field is zero.
+Describe the electric field and electric potential inside the charged conductor.
+The danger signal is always red, why ?
+On what factors, does the refractive index of a medium depend ? (any two)
+What is stopping potential ?
+Write any two characteristics of matter waves.
+Draw the truth table of NAND gate and explain it.
+Write the differences between N-type and P-type semiconductors. (any two)
+In an electrical circuit, resistances R1 and R2 are combined in parallel, then prove that the equivalent resistance is Req = (R1 R2)/(R1+R2)
+Establish the relation among electromotive force, potential difference and internal resistance of a cell.
+Draw the labelled diagram of a meter bridge. On which principle it works? Write any two precautions.
+Describe the principle of Potentiometer with electrical circuit.
+Write differences between Simple Microscope and Astronomical Telescope. (any three)
+Combine two thin convex lens be mutual contact, then prove that the focal length of combine lens F= (f1f2)/(f1+f2)
+A step-down transformer changes the transmitted line voltage from 11000 Volt to 440 Volt. The number of turns in the primary
+Calculate the energy stored in a coil of inductance 100 Henry due to flow of current 4 Ampere in it.
+What is meant by logic gates? Write Symbol, Boolean formula and Truth table for OR, AND and NOR gates.
+What is P-N junction diode ? How does diode used as a forward bias ? Explain.
+What is a capacitor ? Establish an expression for finding capacitance of the parallel plate capacitor.
+What is an electric dipole ? Establish an expression for finding electric field intensity of an electric dipole for equatorial position.
+What is an A.C. generator? Draw a labelled diagram and describe the working of A.C. dynamo.
+Describe the following points in an L-C-R circuit : (1) Electrical circuit (2) Phasor diagram (3) Resultant voltage

@@ -1,0 +1,276 @@
+Choose and write the correct options : If f(x)=8x^3 and g(x) = 1/x^3, then the value of gof is : (A) 8x^3 (B) 512x^3
+Fill in the blanks : (i) In set A={4, 5, 6}, number of equivalence relations containing (4, 5) is _______.
+Match the correct pairs :
+Give answers in one word / sentence each : (i) What is the optimal value function ? (ii) What is the chance that leap year will
+Write true or false in the following statements : (i) The value of d / dx tanx is secx tanx. (ii) Equation of a plane in normal form
+Find the rate of change of the area of a circle with respect to its radius 1=3cm.
+Find the slope of the tangent to the curve y=3x^4–4x at x=4.
+If P(B)=0.5 and P(A∩B)=0.25, then compute P(A/B).
+If P(A)=3/5 and P(B)=1/5, calculate P(A∩B) if A and B are independent events.
+Find the direction cosines of a line which makes equal angles with the coordinate axes.
+Find the angle between pair of lines x/2=y/2=z/1 and (x-5)/4=(y-2)/1=(z-3)/8
+Find the least distance between the lines given by ¯r=i ̂+2j ̂-4k ̂+λ (2i ̂+3j ̂+6k ̂) and ¯r=3i ̂+3j ̂-5k ̂+μ (2i ̂+3j ̂+6k ̂)
+Find the equation of the plane with intercepts 2, 3 and 4 on the x, y and z – axis respectively.
+Find the unit vector in the direction of vector ¯PQ, where P and Q are the points (1, 2, 3) and (4, 5, 6) respectively.
+Find the position vector of the midpoint of the vector joining the points P (2, 3, 4) and Q (4, 1, –2).
+Calculate the value of ∫cos2x dx.
+Calculate the value of I=∫ex•sinx dx.
+Find the value of Integral∫_2^3〖x^5•dx〗.
+Find the value of Integral ∫_0^(π/2)▒√(sin⁡x )/(√(sin⁡x )+√(cos⁡x )) .dx.
+Examine that the relation R in the set {1,2,3} given by R={(1,1),(2,2),(3,3),(1,2),(2,3)} is reflexive but neither symmetric nor transitive.
+Show that the function f:R→R defined as f(x)=x2, is neither one–one nor onto.
+Find AB, if A=[(0 -1,0 2)] and B=[(3 5,0 0)].
+If A=[(3 √3 2,4 2 0)], then show that (A')' = A.
+Differentiate ax with respect to x, where a is positive integer.
+Differentiate (log x)cos x with respect to x.
+Write the function tan^(-1)〖(√((1-cos⁡x)/(1+cos⁡x ))),0
+Prove that sin^(-1)〖3/5-sin^(-1) 8/17=sin^(-1) 13/85〗.
+Express the matrix B=[(2 -2 -4,-1 3 4,1 -2 -3)] is a symmetric matrix.
+Find the values of x and y from the following equation :
+Find two numbers whose sum is 24 and whose product is as large as possible.
+Find the equation of the tangent and normal to the curve x2/3 +y2/3 = 2 at (1, 1).
+Solve the following linear programming problem graphically : Minimise Z = 200x + 500y
+Solve the following linear programming problem graphically : Maximize Z = 4x + y Subject to the constraints :
+Solve the following tabular |(x+1 3 5,2 x+2 5,2 3 x+4)|=0
+Prove that : |(-a^2 ab ac,ab -b^2 bc,ac bc -c^2 )|=4a^2 b^2 c^2
+Discuss the continuity of the function f given by
+Find the value of dy/dx, if x = a (t + sin t), y = a (1 – cos t)
+Find the area of the circle x^2 + y^2 = a^2.
+Find the area enclosed by the ellipse x^2/a^2 +y^2/b^2 =1.
+Solve the differential equation dy/dx=e^(x-y)+x•e^(-y).
+Solve the differential equations dy/dx=√(1-y^2 )/√(1-x^2 ).
+Choose the correct option and write it : The system of equation a1x+b1y+c1 = 0 and a2x+ b2y+c2 = 0 has a unique solution if -
+Fill in the blanks : (i) The sum of two polynomial is ________
+Write True/False in the following : (i) √5 is irrational number.
+Match the correct column : (i) sin 0º - (a) sec2 θ
+Write the answer in one word/sentence of each : (i) Write the area of a circle whose radius is r :
+Express number 140 as a product of its prime factors.
+Find the L.C.M. of 8, 9 and 25 using the prime factorisation method.
+Find a quadratic polynomial, the sum and product of whose zeroes are -3 and 2 respectively.
+The graphs of y= p(x) are given in figure below for some polynomials p(x). Find the number of zeroes of p(x).
+Find the distance between the points (2, 3) and (4, 1).
+Write the coordinates of the point p(x, y) which divides the line segment AB joining the points A(x1, y1) and B(x2, y2), internally in the ratio m : n.
+A child has a die whose six faces show the letters as given below :
+Two players Sangeeta and Reshma play a tennis match. The probability of Sangeeta winning the match is 0.62. Find the probability of Reshma winning the match.
+One card is drawn from a well-shuffled deck of 52 cards. Calculate the probability that the card will be an ace.
+A box contains 3 blue, 2 white and 4 red marbles. If a marble is drawn at random from the box, find the probability that the marble will be white.
+Evaluate : . sin 60°cos30° + sin30°cos60°
+If then A = 4/3 calculate sin A and cos A.
+Find the ratio in which the line segment joining the points A (-3, 10) and B (6, - 8) divided by point (-1, 6).
+If Q (0, 1) is equidistant from P (5, -3) and R (x, 6). Find the values of x.
+Prove that the length of tangents 'drawn from an external point to a are equal.
+From a point Q, the length of the tangent to a circle is 24 cm and the distance of Q from the centre is 25 cm. Find the radius of the circle.
+Find the area of the sector of a circle with radius 6 cm and angle is 60°. (Taking π=3.14)
+The radii of two circles are 8 cm and 6 cm respectively. Find the radius of the circle having area equal to the sum of the areas of the two circles.
+Prove that √3 is a irrational number.
+Without actually performing the long division, state whether the following rational numbers will have a terminating decimal expansion or a non-terminating repeating decimal expansion :
+Find the zeroes of the quadratic polynomial x2 +7x+10 and verify the relationship between the zeroes and the coefficients.
+Find the zeroes of the polynomial x2 – 3 and verify the relationship between the zeroes and the coefficients.
+Solve the following pair of linear equation by the elimination method : 3x +4y=10
+Solve the following pair of linear equation by the substitution method : x+y =14
+Find the roots of the quadratic equation x2 – 3x - 10 = 0 by factorization method.
+Find the discriminat of the quadratic equation 2x2 - 4x + 3 = 0 and hence find the nature of its roots.
+The-angle of elevation of the top of a tower from a point on did ground, which is 30 meters away from the foot of the lower, is 30°. Find the height of the tower.
+A kite is flying at a height of 60 meters above the ground. The string attached to the kite is temporarily tied to a point on the ground. The inclination angle of the string with the ground is 60°. Find the length of the string, assuming that there is no slack in the string
+A ladder is placed against a wall such that its foot is at a distance of 2.5 meters from the wall and its top reaches a window 6 meters above the ground. Find the length of the ladder.
+State Thales theorem and Pythagoras theorem.
+Find the area of the shaded region in given figure, where ABCD is a square of side 14 cm.
+Find the area of the shaded region in given figure if radii of the two concentric circles with centre Q are 7 cm and 14 cm respectively and ∠AOC = 40°.
+How many two digit numbers are divisible by 3 ? Find.
+Find the 31st term of an A.P. whoso 11th term is 38 and the 16th term is 73.
+Prove that : √((1+sin⁡A)/(1-sin⁡A ))=sec⁡〖A+tan⁡A 〗
+Prove that : (sin A+ cosec A)2 + (cos A+ sec A)2 = 7 + tan2 A+ cot2 A
+Draw a line segment of length 7.6 cm and divide it in the ratio 5 : 8.
+Draw a circle of radius 3 cm. From a point 5 cm away from its centre, construct the pair of tangents to the circle.
+Metallic spheres of radii 6 cm, 8 cm and 10 cm respectively, are melted to form a single solid sphere. Find of the resulting sphere.
+A metallic sphere of radius 4.2 cm is melted and recast into the shape of a cylinder of radius 6 cm. Find the height of the cylinder.
+The following data give the information on the observed life times in hours) of electrical components :
+The table below shows the daily expenditure on food of 25 households in a locality:
+Choose and write the correct options : Let A = {1, 2, 3), then number of relations containing (1, 2) and (1, 3) which are reflexive and
+Fill in the blanks : (i) Every differentiable function is ………..... (ii) Area lying in the first quadrant and bounded by the circle x2 + y2 = 4
+Write true / false in the following statements : (i) If A and B are two events such that P(A) ≠ 0 and P(BIA)=1, then A ⊂ B.
+Match the correct pairs : (i) ∫ cot x dx = (a) 1/a tan-1 x/a + c
+Give answers in one word / sentence each : (i) What is the rate of change of the area of a circle with respect to its radius / at / = 6 cm ?
+Find X and Y, if X+Y= [(7 0,2 5)] and X+Y= [(7 0,2 5)]
+Compute the indicated product :
+Examine whether the function f given by f(x) = x2 is continuous at x = 0.
+Find dy / dx, if x–y = Π
+Evaluate :
+Evaluate : ∫(1-x) √x dx
+Find the angle between two vectors a ⃗ and b ⃗ with magnitudes 1 and 2 respectively and when a ⃗.b ⃗=1.
+Find a vector in the direction of vector a ⃗=i ̂-2j ̂ that has magnitude 7 units.
+Find the direction cosines of x, y and z-axis.
+Find the equation of the line which passes through the point (1, 2, 3) and is parallel to the vector
+A stone is dropped into a quiet lake and waves move in circles at a speed of 4 cm per second. At the instant, when the radius of the
+Use differential to approximate √36.6.
+Find two positive numbers whose sum, is 15 and the sum of whose squares is minimum.
+If the radius of a sphere is measured as 9 cm with an error 0.03 cm, then find the approximate error in calculating its volume.
+Find a unit vector perpendicular to each of the vectors (a ⃗+b ⃗) and (a ⃗–b ⃗), where
+Show that the point A(-2i ̂+3j ̂+5k ̂),B(i ̂+2j ̂+3k ̂ )and C(7i ̂-k ̂)are collinears.
+Find the angle between the line x+1 / 2 = y/3 = z–3/6 and the plane 10x + 2y–11z = 3.
+Show that the lines x + 3 / –3 = y – 1 / 1 = z – 5 / 5 and x + 1 / - 1 = y – 2 / 2 = z – 5 / 5 are coplanar.
+Check whether the relation R defined in the set {1, 2, 3, 4, 5, 6} as ' R={(a, b): b = a +1} is reflexive, symmetric or transitive.
+Show that * : R×RR defined by a*b = a + 2b is neither commutative nor associative.
+Express tan^(-1)[(cosx/(1-sinx)),-3π/2
+Show that sin^(-1)[3/5-sin^1 [8/17=cos^(-1) [84/85]]]
+Show that A=[(2 3,1 -4)]and B=[ (1 -2,-1 3)] then verify that (AB)–1= B–1 A–1
+Prove that :
+Find the distance of a point (2, 5, –3) from the plane
+Find the vector and Cartesian equations of the plane which passes through the point (5, 2, 4) and perpendicular to the line with direction
+Solve the following linear programming problem graphically :
+A cooperative society of farmers has 50 hectares of land to grow two crops X and Y. The profit from crops X and X per hectare are
+Of the students in a college, it is known that 60% reside in hostel and 40% are day scholars (not residing in hostel). Previous year results
+An unbiased die is thrown twice. Let the event A be "Odd number on the first throw" and B the event "Odd number on the second throw".
+From a lot of 30 bulbs which include 6 defective, a sample of 4 bulbs is drawn at random with replacement. Find the probability
+Ten cards numbered 1 to 10 are placed in a box, mixed up thoroughly and then one card is drawn randomly. If it is known that the
+Express the matrix B=[(2 -2 -4,-1 3 4,1 -2 -3)]as the sum of a symmetric and a skew symmetric matrix.
+By using elementary operations, find the inverse of the matrix A=[(2 1,1 1)].
+Verily Rolle's theorem for the function f(x) = x2 + 2x – 8, x = ∈ [-4, 2]
+Differentiate ax w.r.t. x, where a is a positive constant.
+Evaluate ∫^(π/2) 0 [sin^4 x/sin^4[x+cos^4 x] dx]
+Evaluate ∫〖((x^2+1) e^x)/(x+1)^2 dx〗
+Using integration find the area of region bounded by the triangle whose vertices are (1, 0), (2, 2) and (3,1).
+Find the area of the parabola y2 = 4 ax bounded by its latus rectum.
+Solve the differential equation dy/dx + y/x = x2
+Find the particular solution of the differential equation log(dy/dx) = 3x+4y given that y=0 when x=0.
+Choose the correct option : Let A = {1, 2, 3}, then number of Equivalence relations containing (1, 2) is : (A) 1 (B) 2 (C) 3 (D) 4
+Fill in the blanks. (i) The direction cosine of the vector
+Write true / false in the following statements : (i) If E1 and E2 are exclusive events, then P(E1∩E2) is 0. (ii) If P(A) = 1/2, P(B) = 0, then P(A/B) is not defined.
+Match the correct pairs : (i) ∫dx/(x^2-a^2)
+Write the answers in one word / sentence each. (i) The max. value of x1/x is (ii) Rate of change in area of a circle having radius r, when r = 5 cm.
+If A = [2 4, 3 2] and B = [1 3, 2 5], then find the value of A.B.
+If A=[(1 5 6,-6 7 0)] and B = [(1 -5 7,8 -7 7)], then find the value of A – B.
+Check the continuity of the function f given by f(x) = 2x + 3 at x = 1.
+Prove that the modulus function f(x)= | x | is not differentiable at x = 0.
+Find the following Integrals :
+Find the following Integrals :
+Find the unit vector in the direction of vector
+Find the projection of the vector
+Find the equation of the plane whose Intercepts on the coordinate axes are –4, 2, 3.
+Find the angle between the line x + 1 / 2 = y / 3 = z–3 / 6 and the plane 3x + y + 2 = 7.
+The radius of an air bubble is increasing at the rate 1/2 cm per second. At what rate is the volume of the bubble increasing when the radius is 1 cm.
+Find the slope of the normal to the curve x =1– a sin θ, y = b cos^2θ at θ = Π/2.
+For what value of x is y = x (5–x) maximum or minimum ?
+Use differentials to find the value of √49.5.
+If a ⃗+b ⃗+c ⃗=0 ⃗, then prove that
+Find the area of Parallelogram whose adjacent sides are given by the vectors
+Find the minimum distance between the line l1 and l2 given by
+Find the distance of the plane 2x – 3y + 4z – 6 = 0 from the origin.
+Show that relation is Equal to in sets is an Equivalence relation.
+If f(x) = x^2 and g(r) = x + 3. X ∈ R, then find the value of (gof)x, (fog)x, (fog)2.
+Show that sin^(-1) 3/5-sin^(-1) 8/17=cos^(-1) 84/85
+Prove that cos^–1 x = 2cos^–1 √((1+x)/2)
+Prove that
+Find the area of the triangle whose vertices are (3, 8), (–1, 2) and (5, 1).
+Find the Equation of the plane the co-ordinate point (1, -1, 2) and is perpendicular to each of the planes 2x + 3y – 2z = 5 and x + 2y –3z = 8.
+Show that the angle between any two diagonals of a cube is cos–1 (1/3).
+Draw the graph of the In equation 3x + 2y ≤ 6.
+Find the minimum value of P = 2x + 4y, subject to constrains : 4x + 3y ≤12, x + 2y ≥4, x, y ≥ 0.
+If P(A) =1/2, P(B) = 1/4 and P(A∩B) = 1/4, then find the following : (i) P(A/B) and (ii) P(B/A)
+In four throws of two dice what is the probability of getting same figure on both dice ?
+A family has two children. What is the probability that both the children are boys given that at least one of them is a boy?
+Find the probability distribution of numbers of doublets in three throws of a pair of dice.
+If A= [(cosα sinα,-sinα cosα)], then prove that A’. A = I.
+If A= [(3 √3 2,4 2 0)]and B=[(2 -1 2,1 2 4)] then verify that
+Discuss the continuity of the following function :
+Prove that the function
+Evaluate
+Evaluate
+Find the area enclosed by circle x^2 + y^2 = a^2
+Find the area of region bounded by the curves y1 = sin x and y2 = cos x between x = 0 and x = Π /4.
+Verify that the function y= a cosx + b sinx, where a, b ∈ R is a solution of the differential equation d^2y / dx^2 + y = 0
+Solve the differential equation dy / dx = x.log x.
+Choose the correct options : If 1/(1+sin x) (2+sin x) = a/(1+sin x) + b/(2+ sin x) then a+b = (a) 0 (b) 1 (c) 2 (d) 3
+Write true/false in the following statements : (i) Equation of plane parallel to Y-axis is ax + by + d = 0.
+Fill in the blanks : (1) Simpson's Rule is based upon the Principle ……. (2) If y = ax then dy/dx is ……….
+Give answers in one word sentence : (i) Write the Simpson's One-third Rule formula for
+Match the column :
+If r ⃗=3i ⃗-4j ⃗+5k ⃗ then find the unit vector in the direction of r ⃗
+Show that a ⃗-2 b ⃗+3 c ⃗,-2 a ⃗+3b ⃗-4c ⃗ and a ⃗-3b ⃗+5c ⃗ are coplanar.
+Prove that the sum of three vectors represented by the consecutive sides of triangle is zero vector.
+If a ⃗=3i ⃗-j ⃗-4k ⃗,b ⃗=-2i ⃗+4j ⃗-3k ⃗, then find the magnitude of vector 3a ⃗-2b ⃗.
+Find the Vector Equation and Cartesian Equation of the sphere whose centre is (-1, 0, 1) and radius is 2.
+Prove that vectors 2i ⃗-3j ⃗+5k ⃗ and-2i ⃗+2j ⃗+2k ⃗ are mutually perpendicular.
+Evaluate: ∫√1+cosx dx
+Evaluate : ∫(dx) / (x^2-6x+13
+Evaluate : ∫x. log x dx
+Integrate with respect to x :
+Find the angle between the line x+1/2 = y/3 = z-3/6 and the plane 3x + y + z = 7.
+Obtain the equation of the sphere described on the joining of the point A(2,-3,4) and B(-5,6,7) as a diameter.
+Find the centroid of the triangle whose vertices are (X1, Y1, Z1), B(X2, Y2, Z2) and C(X3,Y3,Z3)
+Prove that the distance between two parallel planes 2x-2y+z+3=0 and 4x - 4y +22+5=0 is 1/6
+Prove by vector method that cos( + ) =cos. cos - sin. sin.
+Find the angle between the vectors 3i ̂+j ̂+2k ̂ and 2i ̂-2j ̂+4k ̂.
+If G is the centroid of any triangle then show that (prove that) GA ⃗+GB ⃗+GC ⃗=0 ⃗
+If a ⃗=3i ̂+2j ̂+2k ̂,b ⃗=-i ̂+3j ̂-k ̂ and c ⃗=i ̂+j ̂+k ̂ then find a ⃗×(b ⃗×c ⃗ ).
+Resolve x^2+7x / x^2+2x–8 into Partial fractions.
+Resolve 2x+1 / (x-1) (x^2+1) into Partial fractions.
+Prove that : tan-1 ½ + tan-1 1/5 + tan-1 1/8 = Π/4
+Prove that : 1/2 cos^1[(1-x)/(1+x)=tan^(-1)⁡[√x]]
+Differentiate sinx by First Principle.
+Differentiate log log√((1+cosx)/(1-cosx)) with respect to x.
+If y = a cos(log x) + b sin(log x) then prove that x2y2 + xy1 + y = 0
+If xy = e^y-x Prove that dy/dx = 2-log x / (1-log x)2
+Verify Rolle's theorem for function f(x)=x2-1 in the interval [–1, 1).
+A particle moves according to the law S=5e–t cost, find its (a) velocity and (b) acceleration when t = Π/2.
+Prove that: Value of correlation coefficient ρ lies between-1 to +1
+Find the coefficient of correlation from the following data :
+An article costs Rs.70 at Gwalior, find the corresponding most appropriate value at Bhopal using the following data :
+Two lines of regression are x +2y = 5 and 2x + 3y=8, find :
+Find the equation of the sphere passing through the points (1, 0, 0) (0, 1,0) and (0,0,1) and whose centre lies on the plane 3x–y + z = 2.
+Find the angle between the lines whose direction cosine are given by the relation 21+ 2n – m = 0 and ml+mn+nl = 0.
+Evaluate.
+Prove that the function is discontinuous :
+Evaluate : ∫(dx) / (5 + 4 cosx)
+Find the value of
+Solve the differential equation dy / dx = x + 5xy + 4y^2 / x^2
+Solve the (1+x^2) dY / dX +2XY - 4x^2 = 0
+Find the probability that a leap year selected at random will contain 53 Sundays.
+A husband and his wife attended an interview for a post. Probability of the husband being selected 1/4. Whereas that of the wife is 1/6.
+Choose the correct options : (2x+3)/(x^2+5x+6)=A/(x+2)+B/(x+3), then the value of A+B is : (a) 3 (b) 2 (c) 5 (d) 4
+Write True/False in the following statements : (i) The value of correlation coefficient lies between -2 to +2. (ii) If regression coefficient are 0.8 and 0.2 then the
+Fill in the blanks : (i) The perpendicular distance of a point (5, 12, 13) from Y-axis is ............. (ii) The equation of the plane passing through the origin (0, 0, 0) is
+Give answer in one word sentence : (i) In Newton-Raphson's method write the formula for finding square root of the number N.
+Match the correct pair. (a) ∫ cosec xdx
+Prove that the vectors a ⃗=5i ̂+15j ̂ and b ⃗=3i ̂+9j ̂ are parallel.
+If the position vectors of the points A and B are 7i ̂+3j ̂+k ̂ and 2i ̂+5j ̂+4k ̂ respectively, then find the magnitude of AB.
+The displacement of a particle by the force F ⃗=2i ̂-j ̂-k ̂ is d ⃗=3i ̂+2j ̂-5k ̂, then find the work done by the force.
+If a ⃗=2i ̂-3j ̂+k ̂ and b ⃗=3i ̂+2j ̂+k ̂, then find the value of a ⃗(×b) ⃗
+For what value of  the planes r ⃗.(2i ̂+λj ̂-3k ̂ )= 2 and r ⃗.(λi ̂-3j ̂+k ̂ )=5 are perpendicular to each other.
+Write the formula to find the shortest distance between two straight lines whose vector equation are
+Find the value of ∫[(cos (logx))/x dx]
+Prove that ∫sec x dx = log (sec x + tan x) + c
+Find the value of ∫x ex dx
+Find the value of ∫x tan2x dx
+Find the distance between the parallel planes 2x - 2y +z+3=0 and 4x - 4y + 2z +5=0.
+In which ratio does the YZ plane divide the line joining the points (-2, 4, 7) and (3, -5, 8).
+Prove that the symmetrical form of equation x = ay +b, z = cy + d is x – b / a = y / 1 = z – d / c
+Find the equation of the sphere whose centre is (3, 2, 1) and radius is 5.
+Prove by vector method that the angle in a semicircle is right angle.
+Prove that
+Find the vector equation of the sphere where the points (2, 3, 5) and (4, 9, -3) are extremities of its diameter.
+Find the angle between the planes
+Resolve 13x + 18 / 2x2 + 5x + 3 into partial fractions.
+Resolve 8x2 – 9 / (3x + 2) (x2 + 5) into partial fractions.
+Prove that cos–1 4/5 + tan–1 3/5 = tan–1 27/11
+Express sin⁡[2tan^(-1)⁡√((1-x)/(1+x))] in simplest form.
+Find differential coefficient of √(tan√x)
+If y = cot–1[(√(1+x^2 )+1)/x], then find the value of dy/dx
+Differentiate (cos x)cos x with respect to x.
+If y= √(cosx+√(cosx+√(cosx+⋯..∞))) then prove that (1 – 2y) dy/dx = sin x
+The side of a square sheet of metal is increasing at the rate of 5 cm/minute. At what rate its area is increasing when the side is 20 cm long?
+Find the maximum value of 2x3 - 24x + 107 in the interval [1, 3].
+Calculate the correlation coefficient between x and y for the following data :
+Calculate cov(X, Y) between two variables x and y where : ∑xi = 156, ∑yi = 36, ∑xiyi =110, n=5
+Prove that correlation coefficient is the geometric mean of the regression coefficients.
+Calculate regression coefficient byx and bxy for variables x and y for the following data : ∑x = 24, ∑y = 44, ∑xy = 306, ∑x2 = 164, ∑y2 = 574, n = 4
+Find the equation of the plane passing through the point (4, 5, 1), (0, -1,-1) and (-4, 4, 4).
+Prove that the lines x/1 = y-2/2 = z+3/3 and x-2/2 = y-6/3 = z-3/4 are coplanar. Find the point of intersection of these lines.
+If f(x)=log_e⁡[((1-x)/(1+x))] then prove that f(a)+f(b)= f((a+b)/(1+ab))
+Find the value of
+Find the value of ∫(dx)/(5+4sinx)
+Prove that
+Solve the differential equation (x-1) dy/dx=2x^3 y
+Solve the differential equation dy/dx = x2+5xy+4y2 / x2
+A card is drawn at random from a well shuffled pack of 52 cards. Find the probability that it is neither an ace nor a king.
+A fair coin is tossed six times. What is the probability of getting at least three heads?
