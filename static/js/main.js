@@ -16,10 +16,10 @@ function loadHTML(url, elementId) {
 }
 
 // Load header content
-loadHTML('/static/html/header.html', 'header');
+loadHTML('/static/html/header', 'header');
 
 // Load footer content
-loadHTML('/static/html/footer.html', 'footer');
+loadHTML('/static/html/footer', 'footer');
 
 
 
@@ -62,8 +62,8 @@ loadHTML('/static/html/footer.html', 'footer');
 
   // Load header content with a delay of 5 seconds
   setTimeout(() => {
-    loadHTML('/static/html/header.html', 'header');
+    loadHTML('/static/html/header', 'header');
   }, 5000);
 
   // Load footer content
-  loadHTML('/static/html/footer.html', 'footer');
+  loadHTML('/static/html/footer', 'footer');

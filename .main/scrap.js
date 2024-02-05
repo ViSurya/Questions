@@ -9,7 +9,7 @@ async function scrapeAndSaveQuestions(subject, baseUrl, totalPages) {
   const questions = [];
 
   for (let pageIndex = 1; pageIndex <= totalPages; pageIndex++) {
-    const pageURL = `${baseUrl}index-${pageIndex}.html`;
+    const pageURL = `${baseUrl}index-${pageIndex}`;
     const response = await axios.get(pageURL);
     const $ = cheerio.load(response.data);
 
@@ -60,5 +60,5 @@ async function processTableFile(filePath) {
 }
 
 // Example usage: pass the file path of the table HTML
-const tableFilePath = './.main/table.html';
+const tableFilePath = './.main/table';
 processTableFile(tableFilePath);

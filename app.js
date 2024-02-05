@@ -138,7 +138,7 @@ async function processQuestionsForSubject(subjectFileName) {
 
       // Ensure the generated HTML file name is not more than 50 characters
       const truncatedFileName = truncateString(createUrlFromQuestion(question), 200);
-      const fileName = `${truncatedFileName}.html`;
+      const fileName = `${truncatedFileName}`;
       const answerFilePath = `${answersFolder}/${fileName}`;
 
       const htmlContent = `
@@ -200,8 +200,8 @@ async function processQuestionsForSubject(subjectFileName) {
       await new Promise(resolve => setTimeout(resolve, 1000));
     }
 
-    // Generate a single index.html file with links to all answers for the subject
-    const indexFilePath = `./12/${subjectName.toLowerCase()}/index.html`;
+    // Generate a single index file with links to all answers for the subject
+    const indexFilePath = `./12/${subjectName.toLowerCase()}/index`;
     const indexHtmlContent = `
       <!DOCTYPE html>
       <html lang="en">
@@ -238,9 +238,9 @@ async function processQuestionsForSubject(subjectFileName) {
       }
 
       await util.promisify(fs.writeFile)(indexFilePath, indexHtmlContent, 'utf-8');
-      console.log(`Generated index.html file for ${subjectName} at ${indexFilePath}`);
+      console.log(`Generated index file for ${subjectName} at ${indexFilePath}`);
     } catch (writeError) {
-      console.error(`Error writing index.html file for ${subjectName}:`, writeError.message);
+      console.error(`Error writing index file for ${subjectName}:`, writeError.message);
     }
 
     console.log(`Processing for ${subjectName} completed.`);
