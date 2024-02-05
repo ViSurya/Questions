@@ -1,0 +1,67 @@
+Choose the correct alternatives and write in your answer box- 2020 & 2019
+Fill in the following blanks 2020 & 2019
+Match the following pairs : 2020 & 2019
+Answer in one sentence : 2020 & 2019
+Explain the wireless network.
+Write any two advantages of open source software.
+What are identifiers ?
+Write difference between Break statement and Continue statement.
+Differentiate between FLOAT and DOUBLE of MYSQL.
+Differentiate between primary key and candidate key.
+Explain the java control structure and write its types.
+Explain the inheritance and write its types.
+What do you mean by network model ? Write its any three advantages.
+Explain the following functions with an example : (i) SIGN ( ) (ii) TRUNCAT ( ) (iii) POWER ( )
+Explain the following with example : (i) Entity (ii) Attribute (iii) Relationship
+Explain the following: (i) E-governance (ii) E-learning (iii) E-commerce
+How many types of Networks are there? Write its advantages.
+How many are types of computer virus ? Write its disadvantages.
+Explain Ordered list with syntex in HTML.
+Explain font tag in HTML.
+Write features of My SQL.
+Explain ACID properties of a transaction.
+Explain Aggregate function with its type in MYSQL.
+What is Join ? Write its types.
+Write the positive impact of ICT in society.
+Write the advantages of E-learning and mention the names of two E-learning websites.
+Explain various security-threats of internet.
+What do you mean by Star Topology ? Write its advantages and disadvantages.
+Write the features of object oriented programming.
+Write lower case string method and upper case string method with example and syntex in Java.
+What is menu-driven user interface ? Write its advantages.
+Explain SDLC.
+Choose the correct options : ____ return the absolute value of a number. (A) ABS ( ) (B) ACOS ( ) (C) ASIN ( ) (D) ATAN ( )
+Fill in the blanks : (i) _________ command is used to modify data in table. (ii) Relational database popular in year ______ .
+Match the correct columns : (i) AVG (A) Numphy (ii) Array (B) Modulator and demodulator
+Answer in one word : (i) A person who manages the overall DBMS, what is called? (ii) Name series who return a tuple of shape
+Write the two benefits of SQL.
+What is DBMS?
+Write the use of SELECT statement with syntax.
+Write the use of group by statement.
+What is file system ?
+Explain the COUNT function.
+Write the features of Python. (any two)
+Explain the series in Python.
+Write the features of web browser.
+Explain E-commerce website with examples.
+Write any two differences of Router and Switch.
+What is computer network ?
+Write any two benifits of social media.
+What is licensing ?
+Write the names of any two types of cyber crime.
+What is Ethical Hacking ?
+What is Data Frame ? Explain in brief.
+Explain Pivoting.
+What is variance ? Write a program in Python to find variance.
+What is subplots ( ) function ? Explain.
+Write the differences between Star Topology and Ring Topology.
+Explain bridge with its types.
+Write short notes : Digital Footprint
+Write short notes : Copyright
+Write about any three types of cyber bulling.
+Write the differences between static and dynamic web pages.
+Write a short note on network devices. Also mention names of different types of network devices.
+Write the features of database system.
+Explain any five aggregate functions
+Write important features of IT ACT 2000.
+Write a detailed note on types of Plagiarism.

@@ -1,0 +1,53 @@
+
+      <!DOCTYPE html>
+      <html lang="en">
+      
+      <head>
+          <meta charset="UTF-8">
+          <meta name="viewport" content="width=device-width, initial-scale=1.0">
+          <title>Find the particular solution of the differential equation log(dy/dx) = 3x+4y given that y=0 when x=0.</title>
+          <script type="text/javascript" src="/static/js/main.js"></script>
+          <link rel="stylesheet" href="/static/css/flowbite.min.css">
+          <link rel="stylesheet" href="/static/css/style.css">
+      </head>
+      
+      <body class="font-sans bg-gray-100 dark:bg-gray-800 text-gray-800 dark:text-gray-200">
+          <header id="header">
+              <!-- Your header content here -->
+          </header>
+          <div class="container mx-auto my-8">
+              <article class="max-w-2xl mx-auto bg-white dark:bg-gray-700 p-8 rounded-lg shadow-md">
+                  <h1 id="question" class="text-xl font-bold mb-4 text-gray-800 dark:text-gray-200">Find the particular solution of the differential equation log(dy/dx) = 3x+4y given that y=0 when x=0.</h1>
+                  <div id="answer" class="prose">
+                      <div id="answer">
+  <p class="mb-3 text-gray-500 dark:text-gray-400">
+    To find the particular solution of the given differential equation, we can rewrite it as
+    $$
+    \frac{dy}{dx} = e^{3x+4y}
+    $$
+    and then integrate both sides with respect to \(x\). Using the substitution \(u = 3x+4y\), we get
+    $$
+    \int \frac{dy}{dx} dx = \int e^u du
+    $$
+    which gives
+    $$
+    y = \frac{1}{4} e^{3x+4y} + C
+    $$
+    where \(C\) is the constant of integration. Using the initial condition \(y=0\) when \(x=0\), we can solve for \(C\) and obtain the particular solution:
+    $$
+    y = \frac{1}{4} e^{3x+4y} - \frac{1}{4}
+    $$
+  </p>
+</div>
+                  </div>
+              </article>
+          </div>
+          <footer id="footer">
+              <!-- Your footer content here -->
+          </footer>
+          <script type="text/javascript" src="/static/js/flowbite.min.js"></script>
+          <script type="text/javascript" src="/static/js/MathJax.js"></script>
+      </body>
+      
+      </html>
+    
